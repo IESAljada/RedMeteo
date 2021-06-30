@@ -7,18 +7,23 @@ Con esta experiencia, intentamos trabajar los Objetivos de Desarrollo Sostenible
 Con esta experiencia pretendemos establecer una red de centros interconectados con un nexo en común: la concienciación de las nuevas generaciones en la defensa de nuestro mundo. Esta experiencia pretende la educación integral de las nuevas generaciones, diseñando, estudiando, creando y evaluando nuestro entorno.
 La tecnología es el punto de partida, pero no es el fin.
 La estación meteorológica de la que partimos esta instalada en el IES Aljada de Puente Tocinos.
- 
+![Problemas Cargando Imagen](README/fotos/instalacion.png) 
 
 # Hardware
 Piezas 3 D
 Todas las piezas han sido diseñadas e impresas con una impresora 3d.  Existen archivos para ser distribuidos con todas las piezas:
-
+![Problemas Cargando Imagen](README/fotos/piezas 3d.png)
  
 # Electrónica
 Estas piezas se montan sobre una barra de aluminio y se introducen sensores para la toma de datos que van a ser gestionados con un Arduino uno instalado en una caja:
+![Problemas Cargando Imagen](README/fotos/caja cerrada.png)
 Esta caja está instalada en una pared, preferiblemente dando al norte ya que dentro hay un sensor de temperatura y humedad.
 
+ ![Problemas Cargando Imagen](README/fotos/caja abierta.png)
  
+ ![Problemas Cargando Imagen](README/fotos/caja abierta2.png)
+ 
+ ![Problemas Cargando Imagen](README/fotos/icono2.png)
 
  
 
