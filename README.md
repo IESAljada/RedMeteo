@@ -7,6 +7,7 @@ Con esta experiencia, intentamos trabajar los Objetivos de Desarrollo Sostenible
 Con esta experiencia pretendemos establecer una red de centros interconectados con un nexo en común: la concienciación de las nuevas generaciones en la defensa de nuestro mundo. Esta experiencia pretende la educación integral de las nuevas generaciones, diseñando, estudiando, creando y evaluando nuestro entorno.
 La tecnología es el punto de partida, pero no es el fin.
 La estación meteorológica de la que partimos esta instalada en el IES Aljada de Puente Tocinos.
+
 ![Problemas Cargando Imagen](README/fotos/instalacion.png) 
 
 # Hardware
