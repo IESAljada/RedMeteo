@@ -12,7 +12,8 @@ La estación meteorológica de la que partimos esta instalada en el IES Aljada d
 # Hardware
 Piezas 3 D
 Todas las piezas han sido diseñadas e impresas con una impresora 3d.  Existen archivos para ser distribuidos con todas las piezas:
-![Problemas Cargando Imagen](README/fotos/piezas 3d.png)
+
+![Problemas Cargando Imagen]("README/fotos/piezas 3d.png")
  
 # Electrónica
 Estas piezas se montan sobre una barra de aluminio y se introducen sensores para la toma de datos que van a ser gestionados con un Arduino uno instalado en una caja:
