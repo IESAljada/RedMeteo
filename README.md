@@ -52,3 +52,5 @@ Ahora ya solo la imaginación es el límite, podemos empezar a compartir datos, 
 
 Ánimo, esto empieza ahora…..
 
+[Versión pdf](README/RedMeteo.pdf)
+
