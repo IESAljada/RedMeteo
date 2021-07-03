@@ -12,7 +12,8 @@ La estación meteorológica de la que partimos esta instalada en el IES Aljada d
 
 # Hardware
 ## Piezas 3 D 
-[Link a Piezas 3D](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3d/README.md)
+[Link a Piezas 3D](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/README.md)
+https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/README.md
 
 Todas las piezas han sido diseñadas e impresas con una impresora 3d.  Existen archivos para ser distribuidos con todas las piezas:
 
