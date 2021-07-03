@@ -11,7 +11,7 @@ La estación meteorológica de la que partimos esta instalada en el IES Aljada d
 ![Problemas Cargando Imagen](README/fotos/instalacion.png) 
 
 # Hardware
-Piezas 3 D
+## Piezas 3 D  Piezas_3d/README.md
 Todas las piezas han sido diseñadas e impresas con una impresora 3d.  Existen archivos para ser distribuidos con todas las piezas:
 
 ![Problemas Cargando Imagen](README/fotos/Piezas_3d.png)
