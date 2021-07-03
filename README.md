@@ -1,5 +1,5 @@
 # RedMeteo
-![Problemas Cargando Imagen](README/fotos/icono2.png)
+![Problemas Cargando Imagen](README/fotos/icono.png)
  
  
 # Objetivo
