@@ -10,7 +10,7 @@ SECRET_CH_ID | Tu número de canal de ThinkSpeak
 SECRET_WRITE_APIKEY | Tu clave para escribir (write API Key)
   
 
-Y en el programa principal hay que cambiar la dirección IP si se desea que tenga una dirección fija en la red.
+Y en el programa principal hay que cambiar la dirección IP si se desea que tenga una dirección fija en la red local el arduino uno.
     
     // Set the static IP address to use if the DHCP fails to assign
     IPAddress ip( 0, 0, 0, 0);

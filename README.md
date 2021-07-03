@@ -46,6 +46,8 @@ La relación de dispositivos electrónicos necesarios se describe en un archivo 
 El circuito eléctrico con todas las conexiones es:
  
 # Software
+[Link a Software](https://github.com/IESAljada/RedMeteo/tree/main/Software)
+
 Otro campo interesante en la formación de los alumnos es el software. Empezar entendiendo el funcionamiento del programa es el inicio para despertar inquietudes y empezar a realizar pequeñas modificaciones sobre el programa base que permitirán a los alumnos adentrarse en esta disciplina. El programa aparece comentado en un archivo adjunto.
 
 La central se conecta a internet, para ello se necesita tener un cable de red conectado a la placa.
