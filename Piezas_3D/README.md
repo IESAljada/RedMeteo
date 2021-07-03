@@ -5,29 +5,32 @@ los programas de diseño **CAD** tipo Autocad.
 Las piezas son:
 
 ## **Archivo:** [*balancin.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/balancin.stl)
-![Imagen pieza balancin 3D](imagenes/balancin.png)
+<p align="center"><img src="imagenes/balancin.png" width="250"/></p>
+
 
 ## **Archivo:** [*base_anem_veleta.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/base_anem_veleta.stl)
-![Imagen pieza 3D](imagenes/base_anem_veleta.png)
+
+  <p align="center">
+    <img src="imagenes/base_anem_veleta.png" width="250"/></p>
 
 ## **Archivo:** [*base_pluviometro.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/base_pluviometro.stl)
-![Imagen pieza 3D](imagenes/base_pluviometro.png)
+<p align="center"><img src="imagenes/base_pluviometro.png" width="250"/>
 
 ## **Archivo:** [*brida.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/brida.stl)
-![Imagen pieza 3D](imagenes/brida.png)
+<p align="center"><img src="imagenes/brida.png" width="250"/></p>
 
 ## **Archivo:** [*capsula_pluviometro.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/capsula_pluviometro.stl)
-![Imagen pieza 3D](imagenes/capsula_pluviometro.png)
+<p align="center"><img src="imagenes/capsula_pluviometro.png" width="250"/></p>
 
 ## **Archivo:** [*conector_anem.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/conector_anem.stl)
-![Imagen pieza 3D](imagenes/conector_anem.png)
+<p align="center"><img src="imagenes/conector_anem.png" width="250"/></p>
 
 ## **Archivo:** [*paletas_anem.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/paletas_anem.stl)
-![Imagen pieza 3D](imagenes/paletas_anem.png)
+<p align="center"><img src="imagenes/paletas_anem.png" width="250"/></p>
 
 ## **Archivo:** [*soporte_veleta.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/soporte_veleta.stl)
-![Imagen pieza 3D](imagenes/soporte_veleta.png)
+<p align="center"><img src="imagenes/soporte_veleta.png" width="250"/></p>
 
 ## **Archivo:** [*veleta.stl*](https://github.com/IESAljada/RedMeteo/blob/main/Piezas_3D/veleta.stl)
-![Imagen pieza 3D](imagenes/veleta.png)
+<p align="center"><img src="imagenes/veleta.png" width="250"/></p>
 
