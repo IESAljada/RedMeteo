@@ -57,6 +57,10 @@ Los datos se envían periódicamente a Thingspeak. Donde previamente se ha cread
 
 Ahora ya solo la imaginación es el límite, podemos empezar a compartir datos, experiencias, etc
 
+# Funcionamiento
+
+En el siguiente [link](https://github.com/IESAljada/RedMeteo/tree/Funcionamiento) se encuentra una explicación más detallada del funcionamiento así como varios videos donde los profesores y alumn@s describen los problemas encontrados y las soluciones aportadas.
+
 Ánimo, esto empieza ahora…..
 
 [Versión pdf](README/RedMeteo.pdf)
