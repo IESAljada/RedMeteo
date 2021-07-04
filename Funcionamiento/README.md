@@ -1,5 +1,7 @@
 # Funcionamiento
-<video src="videos/Video_Estacion.wmv" width="560" height="315"></video>
+
+https://youtube.com/embed/M3VhcBCXWJw
+
 ## Anemómetro
 Nuestro anemometro consiste en tres "cucharas" imprimidas con la impresora 3D del instituto unidas a un pequeño motor
 
