@@ -20,6 +20,8 @@ Todas las piezas han sido diseñadas e impresas con una impresora 3d.  Existen a
 ![Problemas Cargando Imagen](README/fotos/Piezas_3d.png)
  
 # Electrónica
+[Link a Hardware](https://github.com/IESAljada/RedMeteo/tree/main/Hardware)
+
 Estas piezas se montan sobre una barra de aluminio y se introducen sensores para la toma de datos que van a ser gestionados con un Arduino uno instalado en una caja:
 
 ![Problemas Cargando Imagen](README/fotos/Caja_cerrada.png)
