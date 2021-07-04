@@ -1,6 +1,6 @@
 # Funcionamiento
 
-[<p align="center"><img src="videos/portada_video.png" width="500"/></p>](https://www.youtube.com/watch?v=M3VhcBCXWJw)
+[<p align="center"><img src="imagenes/portada_video.png" width="500"/></p>](https://www.youtube.com/watch?v=M3VhcBCXWJw)
 
 
 ## Anemómetro
@@ -52,15 +52,15 @@ Respecto a la programación utilizamos librerías como el comando "#define DHT_P
 
 # Vídeos del proyecto
 
-[<p align="center"><img src="videos/portada_motivación.png" width="300"/></p>](https://www.youtube.com/watch?v=khU9boEUZWA)
+[<p align="center"><img src="imagenes/portada_motivación.png" width="300"/></p>](https://www.youtube.com/watch?v=khU9boEUZWA)
 
-[<p align="center"><img src="videos/presentacion.png" width="300"/></p>](https://www.youtube.com/watch?v=QIYsvqj47zA)
+[<p align="center"><img src="imagenes/presentacion.png" width="300"/></p>](https://www.youtube.com/watch?v=QIYsvqj47zA)
 
-[<p align="center"><img src="videos/1.png" width="300"/></p>](https://www.youtube.com/watch?v=qWfMcAfXikM)
+[<p align="center"><img src="imagenes/1.png" width="300"/></p>](https://www.youtube.com/watch?v=qWfMcAfXikM)
 
-[<p align="center"><img src="videos/2.png" width="300"/></p>](https://www.youtube.com/watch?v=wo1Z4RKRpvQ)
+[<p align="center"><img src="imagenes/2.png" width="300"/></p>](https://www.youtube.com/watch?v=wo1Z4RKRpvQ)
 
-[<p align="center"><img src="videos/3.png" width="300"/></p>](https://www.youtube.com/watch?v=ot10pqSaxAg)
+[<p align="center"><img src="imagenes/3.png" width="300"/></p>](https://www.youtube.com/watch?v=ot10pqSaxAg)
 
 # Enlace ThinkSpeak
 
