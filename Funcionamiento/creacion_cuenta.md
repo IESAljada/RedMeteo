@@ -39,7 +39,7 @@ Veamos una breve descripción de los pasos a seguir para lograr la conexión con
    * Llegaremos al canal. *MUY IMPORTANTE* pulsamos en * **API Keys** *:
       <p align="center"><img src="imagenes/ThingSpeak14.png" width="400"/> </p>
    * Nos apuntmos nuestra Key que necesitaremos para ponerla en nuetro programa  junto con el * **Channel ID** *:   
-      <p align="center"><img src="imagenes/ThingSpeak15.png" width="400"/> </p>
+      <p align="center"><img src="imagenes/ThingSpeak16.png" width="400"/> </p>
  
     
     
