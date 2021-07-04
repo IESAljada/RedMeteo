@@ -45,7 +45,10 @@ Esta caja está instalada en una pared, preferiblemente dando al norte ya que de
 
 
 La relación de dispositivos electrónicos necesarios se describe en un archivo adjunto con su presupuesto.
+
 El circuito eléctrico con todas las conexiones es:
+
+![Problemas Cargando Imagen](README/fotos/esquema_electrico.png)
  
 # Software
 [Link a Software](https://github.com/IESAljada/RedMeteo/tree/main/Software)
