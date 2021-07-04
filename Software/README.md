@@ -15,3 +15,13 @@ Y en el programa principal hay que cambiar la dirección IP si se desea que teng
     // Set the static IP address to use if the DHCP fails to assign
     IPAddress ip( 0, 0, 0, 0);
     IPAddress myDns( 0, 0, 0, 0);
+
+## Software auxiliar
+
+En la carpeta **pruebas** hay programas para comprobar y ajustar el funcionamiento de los sensores:
+* prueba_anemometro.ino
+* prueba_dht11.ino
+* prueba_pluviometro.ino
+
+
+
