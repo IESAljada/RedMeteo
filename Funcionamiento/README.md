@@ -1,6 +1,6 @@
 # Funcionamiento
 
-[![Link vídeo](videos/portada_video.png)](https://www.youtube.com/watch?v=M3VhcBCXWJw)
+[<p align="center"><img src="videos/portada_video.png" width="500"/></p>](https://www.youtube.com/watch?v=M3VhcBCXWJw)
 
 
 ## Anemómetro
