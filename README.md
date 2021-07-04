@@ -59,7 +59,7 @@ Ahora ya solo la imaginación es el límite, podemos empezar a compartir datos, 
 
 # Funcionamiento
 
-En el siguiente [link](https://github.com/IESAljada/RedMeteo/Funcionamiento) se encuentra una explicación más detallada del funcionamiento así como varios videos donde los profesores y alumn@s describen los problemas encontrados y las soluciones aportadas.
+En el siguiente [link](https://github.com/IESAljada/RedMeteo/tree/main/Funcionamiento) se encuentra una explicación más detallada del funcionamiento así como varios videos donde los profesores y alumn@s describen los problemas encontrados y las soluciones aportadas.
 
 Ánimo, esto empieza ahora…..
 
