@@ -31,13 +31,13 @@ Veamos una breve descripción de los pasos a seguir para lograr la conexión con
    Para ello seguimos  las siguientes instrucciones:
    * Entramos con nuestro email y contraseña en nuestra cuenta de ThingSpeak.
    * Pulsamos en:
-   <p align="center"><img src="imagenes/ThingSpeak10.jpg" width="200"/> </p>
+   <p align="center"><img src="imagenes/ThingSpeak10.png" width="200"/> </p>
    * Llegamos a una pagina donde se nos piden los datos de nuestro canal:
-     <p align="center"><img src="imagenes/ThingSpeak11.jpg" width="200"/> </p>
+     <p align="center"><img src="imagenes/ThingSpeak11.png" width="200"/> </p>
    * Completamos los datos de nuestra estación: Nombre, pequeña descripción, los campos (Field X) que va a ir recogiendo nuestra estación (pueden ser hasta 8 campos),... Y pulsamos en "Save Channel" <img src="imagenes/ThingSpeak13.jpg" width="100"/>.
-     <p align="center"><img src="imagenes/ThingSpeak12.jpg" width="200"/> </p>
+     <p align="center"><img src="imagenes/ThingSpeak12.png" width="200"/> </p>
    * Llegaremos al canal. *MUY IMPORTANTE* pulsamos en * **API Keys** *:
-      <p align="center"><img src="imagenes/ThingSpeak14.jpg" width="200"/> </p>
+      <p align="center"><img src="imagenes/ThingSpeak14.png" width="200"/> </p>
    * Nos apuntmos nuestra Key que necesitaremos para ponerla en nuetro programa  junto con el * **Channel ID** *:   
 
  
