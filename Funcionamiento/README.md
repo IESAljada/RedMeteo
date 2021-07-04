@@ -64,5 +64,5 @@ Respecto a la programación utilizamos librerías como el comando "#define DHT_P
 
 # Enlace ThinkSpeak
 
-Los datos obtenidos con la estación son introducidos en un servidor web desde donde se hacen públicos y son accesibles desde el exterior. Para ello hay que crearse una cuenta en ThinkSpeak. En el siguiente manual se describen todos los pasos. [Creación Cuenta Thingspeak](crear_cuenta.md)
+Los datos obtenidos con la estación son introducidos en un servidor web desde donde se hacen públicos y son accesibles desde el exterior. Para ello hay que crearse una cuenta en ThinkSpeak. En el siguiente manual se describen todos los pasos. [Creación Cuenta Thingspeak](creacion_cuenta.md)
 
