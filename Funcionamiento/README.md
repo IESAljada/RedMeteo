@@ -1,7 +1,7 @@
 # Funcionamiento
 
 [<p align="center"><img src="imagenes/portada_video.png" width="500"/></p>](https://www.youtube.com/watch?v=M3VhcBCXWJw) 
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=M3VhcBCXWJw) 
+<p align="center">(Pulsa en las imagenes para ver los vídeos)</p>
 
 
 ## Anemómetro
@@ -47,7 +47,6 @@ El pluviómetro mide la cantidad de lluvia en función del tiempo aplicando la f
 Detalle del montaje del anemómetro y la veleta con los dos anillos que entran a presión y la junta hecha de *goma Eva* entre las dos piezas para intentar crear una zona estanca ya que ahí están alojados el motor y el sensor angular, *tal vez esta es la zona más débil del proyecto*:
 
 [<p align="center"><img src="imagenes/4.png" width="300"/></p>](https://www.youtube.com/watch?v=L_95Tg8eJ-M)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=L_95Tg8eJ-M) 
 
 ## Sensor de temperatura y humedad (DHT11)
 El DHT11 es un sensor de temperatura y humedad que dispone de una salida calibrada a una señal digital.
@@ -58,23 +57,19 @@ Respecto a la programación utilizamos librerías como el comando "#define DHT_P
 # Vídeos del proyecto
 
 [<p align="center"><img src="imagenes/portada_motivación.png" width="300"/></p>](https://www.youtube.com/watch?v=khU9boEUZWA)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=khU9boEUZWA)
+
 
 
 [<p align="center"><img src="imagenes/presentacion.png" width="300"/></p>](https://www.youtube.com/watch?v=QIYsvqj47zA)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=QIYsvqj47zA)
 
 
 [<p align="center"><img src="imagenes/1.png" width="300"/></p>](https://www.youtube.com/watch?v=qWfMcAfXikM)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=qWfMcAfXikM)
 
 
 [<p align="center"><img src="imagenes/2.png" width="300"/></p>](https://www.youtube.com/watch?v=wo1Z4RKRpvQ)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=wo1Z4RKRpvQ)
 
 
 [<p align="center"><img src="imagenes/3.png" width="300"/></p>](https://www.youtube.com/watch?v=ot10pqSaxAg)
-[<p align="center">(Pulsa para ver el video)</p>](https://www.youtube.com/watch?v=ot10pqSaxAg)
 
 # Enlace ThinkSpeak
 
