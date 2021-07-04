@@ -40,6 +40,16 @@ Veamos una breve descripción de los pasos a seguir para lograr la conexión con
       <p align="center"><img src="imagenes/ThingSpeak14.png" width="400"/> </p>
    * Nos apuntmos nuestra Key que necesitaremos para ponerla en nuetro programa  junto con el * **Channel ID** *:   
       <p align="center"><img src="imagenes/ThingSpeak16.png" width="400"/> </p>
+      
+## Actualización del Software
+
+Con los datos btenidos anteriormente: *Channel ID*: XXXXXXX y *API Key*: 1234567890ABCDEF modificamos las constantes con esos valores en el archivo del programa **secrets.h** líneas 9 y 10:
+    #define SECRET_CH_ID XXXXXXX			              // replace 0000000 with your channel number
+    #define SECRET_WRITE_APIKEY "1234567890ABCDE"   // replace XYZ with your channel write API Key
+    
+ ## Visualización de los datos
+ 
+ Los datos se pueden visualizar externamente a traves del servidor ThingSpeak. Con la siguiente dirección podremos ver los resultados que se van recogiendo: https://thingspeak.com/channels/TU_CHANNEL_ID
  
     
     
