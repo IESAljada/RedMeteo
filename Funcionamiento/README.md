@@ -1,5 +1,5 @@
 # Funcionamiento
-<p align="center">(Si pulsas en las imágenes se repruducira el vídeo)</p>
+<p align="center">(Si pulsas en las imágenes se repruducirá el vídeo)</p>
 
 [<p align="center"><img src="imagenes/portada_video.png" width="500"/></p>](https://www.youtube.com/watch?v=M3VhcBCXWJw) 
 
