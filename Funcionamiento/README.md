@@ -43,6 +43,9 @@ Tras haber realizado esta ecuación,  imprimimos su valor en el monitor serie, a
 
 El pluviómetro mide la cantidad de lluvia en función del tiempo aplicando la fórmula anterior. En el interior del pluviometro tenemos implantado un  sensor magnético que mide la diferencia de voltaje entre el tiempo,  que cuando se llena una parte del cubo, se vacía y en el tiempo que tarda en bajar detecta ese tiempo y lo implementa en la ecuación para calcular la lluvia.
 
+Detalle del montaje del anemómetro y la veleta con los dos anillos que entran a presión y la junta entre las dos piezas:
+
+[<p align="center"><img src="imagenes/4.png" width="300"/></p>](https://www.youtube.com/watch?v=L_95Tg8eJ-M)
 
 ## Sensor de temperatura y humedad (DHT11)
 El DHT11 es un sensor de temperatura y humedad que dispone de una salida calibrada a una señal digital.
