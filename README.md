@@ -10,6 +10,9 @@ La estación meteorológica de la que partimos esta instalada en el IES Aljada d
 
 ![Problemas Cargando Imagen](README/fotos/instalacion.png) 
 
+Un ejemplo de los datos que está ofreciendo nuestra estación los puedes consultar en: https://thingspeak.com/channels/1286958 
+
+
 # Hardware
 ## Piezas 3 D 
 [Link a Piezas 3D](https://github.com/IESAljada/RedMeteo/tree/main/Piezas_3D)
