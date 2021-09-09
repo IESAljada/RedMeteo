@@ -4,6 +4,7 @@
 
 Los dispositivos electrónicos necesarios así como un presupuesto de ellos y la dirección web donde encontrarlos está en la siguiente tabla:
 **Observación:** Hay varios precios dependiendo de donde se compre el artículo.
+
 Dispositivo | Descripción | Presupuesto | Link de compra
 ------------|--------|-------------|---------------
 <img src="imagenes/arduino-uno.jpg" width="100"/> |Arduino Uno  | 9,90 € (8,90 € con el cable incluido) | [ElectroHobby tienda española](https://www.electrohobby.es/placas-arduino/36-clon-r3.html) /  ([Aliexpress](https://es.aliexpress.com/item/32831857482.html?spm=a2g0o.productlist.0.0.3ce662deg3mzHk&algo_pvid=105d6c86-c513-41ab-a277-119ebfe47045&algo_exp_id=105d6c86-c513-41ab-a277-119ebfe47045-0) )
